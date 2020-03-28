@@ -15,7 +15,7 @@ html {
 
 body {
 	background-image: url(DR50.jpg);
-	background-repeat: none;
+	background-repeat: no-repeat;
 	background-size: 100%;
 	background-color: black;
 	font-family: sans-serif;
