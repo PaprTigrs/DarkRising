@@ -89,13 +89,33 @@ img {
 
 #info {
 	float: left;
-	width: 75%;
+	width: auto;
 }
 
 #info p {
 	color: white;
 	font-size: 30px;
 	margin: 10px auto 0 20px;
+}
+
+#info h1 {
+	background: none;
+	color: white;
+	font-size: 22px;
+	text-align: left;
+	text-decoration: underline;
+	margin: 20px 0 10px 20px;
+}
+
+#info i {
+	color: white;
+	font-size: 18px;
+}
+
+#info h2 {
+	color: white;
+	font-size: 20px;
+	margin: 0px 0 5px 20px;
 }
 
 #info h3 {
@@ -139,6 +159,20 @@ img {
 	margin: 5px;
 	padding: 500px 10px 20px 20px;
 }
+
+/* Pricing */
+
+#potions {
+	float: left;
+	width: auto;
+}
+
+#prices {
+	float: left;
+	width: auto;
+}
+
+/* Collapse Styles */
 
 .row { 
 	vertical-align: top;
