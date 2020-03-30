@@ -80,6 +80,10 @@ h1 {
 
 /* Informations Styles */
 
+#message {
+	width: 75%;
+}
+	
 #info {
 	float: left;
 	width: 75%;
