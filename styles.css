@@ -78,18 +78,6 @@ h1 {
 
 }
 
-/* Pricing */
-
-#potions {
-	float: left;
-	width: auto;
-}
-
-#prices {
-	float: left;
-	width: 95%;
-}
-
 /* Informations Styles */
 
 #open {
@@ -168,6 +156,18 @@ h1 {
 	margin: 5px;
 	padding: 500px 10px 20px 20px;
 	width: 75%;
+}
+
+/* Pricing */
+
+#potions {
+	float: left;
+	width: auto;
+}
+
+#prices {
+	float: left;
+	width: 95%;
 }
 
 /* Collapse Styles */
