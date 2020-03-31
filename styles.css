@@ -83,7 +83,7 @@ h1 {
 #open {
 	width: 90%;
 }
-	
+
 #info {
 	float: left;
 	width: 75%;
@@ -155,10 +155,10 @@ h1 {
 	color: white;
 	margin: 5px;
 	padding: 500px 10px 20px 20px;
-	width: 75%;
 }
 
 /* Pricing */
+
 
 #potions {
 	float: left;
@@ -167,7 +167,7 @@ h1 {
 
 #prices {
 	float: left;
-	width: 95%;
+	width: auto;
 }
 
 /* Collapse Styles */
